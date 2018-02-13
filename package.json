@@ -1,0 +1,15 @@
+{
+  "name": "foldersync",
+  "version": "1.0.0",
+  "description": "Synchronizes the contents from one folder to another folder, where you may configure an arbitrary number of from/to folder pairs.",
+  "main": "folderSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.Manis",
+  "license": "ISC",
+  "dependencies": {
+    "file-exists": "^2.0.0",
+    "readdir": "0.0.13"
+  }
+}
